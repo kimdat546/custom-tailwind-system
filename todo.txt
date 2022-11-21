@@ -1,0 +1,7 @@
+storybook
+tailwind = v1
+scss = v2
+jest
+cypress
+ci/cd
+vitest
